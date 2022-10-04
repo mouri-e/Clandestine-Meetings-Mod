@@ -1,0 +1,25 @@
+{
+  "item.clandestine_meetings_mod.ruby": "Ruby",
+  "item.clandestine_meetings_mod.sapphire": "Sapphire",
+  "item.clandestine_meetings_mod.raw_sapphire": "Raw Sapphire",
+  "item.clandestine_meetings_mod.raw_ruby": "Raw Ruby",
+  "item.clandestine_meetings_mod.cartherite": "Cartherite",
+
+  "block.clandestine_meetings_mod.ruby_block": "Ruby Block",
+  "block.clandestine_meetings_mod.sapphire_block": "Sapphire Block",
+  "block.clandestine_meetings_mod.ruby_ore": "Ruby Ore",
+  "block.clandestine_meetings_mod.sapphire_ore": "Sapphire Ore",
+
+  "item.clandestine_meetings_mod.cartherite_axe": "Cartherite Axe",
+  "item.clandestine_meetings_mod.cartherite_pickaxe": "Cartherite Pickaxe",
+  "item.clandestine_meetings_mod.cartherite_shovel": "Cartherite Shovel",
+  "item.clandestine_meetings_mod.cartherite_sword": "Cartherite Sword",
+  "item.clandestine_meetings_mod.cartherite_hoe": "Cartherite Hoe",
+
+  "item.clandestine_meetings_mod.cartherite_helmet": "Cartherite Helmet",
+  "item.clandestine_meetings_mod.cartherite_chestplate": "Cartherite Chestplate",
+  "item.clandestine_meetings_mod.cartherite_leggings": "Cartherite Leggings",
+  "item.clandestine_meetings_mod.cartherite_boots": "Cartherite Boots",
+
+  "itemGroup.ClandestineMeetingsModCustomTab": "Clandestine Meetings Mod"
+}

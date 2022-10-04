@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 350,
+  "experience": 0.5,
+  "ingredient": {
+    "item": "clandestine_meetings_mod:raw_ruby"
+  },
+  "result": "clandestine_meetings_mod:ruby"
+}

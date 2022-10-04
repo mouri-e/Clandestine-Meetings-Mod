@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "clandestine_meetings_mod:cartherite"
+    }
+  },
+  "pattern": [
+    "   ",
+    "X X",
+    "X X"
+  ],
+  "pattern": [
+    "X X",
+    "X X",
+    "   "
+  ],
+  "result": {
+    "item": "clandestine_meetings_mod:cartherite_boots"
+  }
+}

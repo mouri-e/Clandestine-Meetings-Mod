@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "clandestine_meetings_mod:sapphire_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "clandestine_meetings_mod:sapphire"
+  }
+}

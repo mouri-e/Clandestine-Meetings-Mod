@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 300,
+  "experience": 0.9,
+  "ingredient": {
+    "item": "clandestine_meetings_mod:raw_sapphire"
+  },
+  "result": "clandestine_meetings_mod:sapphire"
+}

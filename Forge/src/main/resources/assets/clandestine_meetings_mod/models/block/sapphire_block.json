@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "clandestine_meetings_mod:block/sapphire_block"
+  }
+}

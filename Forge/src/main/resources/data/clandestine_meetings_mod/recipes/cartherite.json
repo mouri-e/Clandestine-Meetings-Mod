@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "clandestine_meetings_mod:sapphire"
+    },
+    "k": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "l": {
+      "item": "clandestine_meetings_mod:ruby"
+    }
+  },
+  "pattern": [
+    "###",
+    "#kl",
+    "lll"
+  ],
+  "result": {
+    "item": "clandestine_meetings_mod:cartherite"
+  }
+}
